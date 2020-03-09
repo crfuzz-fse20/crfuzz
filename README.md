@@ -7,6 +7,7 @@ The data of Table 3 and 4
 The file name represents the binary name
 
 Each number represents the accumulated path or edge coverage every hour.
+
 The directory (edge or path) represents the result of edge or path coverage, respectively.
 
 In the file,
